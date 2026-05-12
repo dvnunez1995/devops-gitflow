@@ -7,3 +7,4 @@ Repo de práctica del plan DevOps.
 - develop — integración continua
 - feature/* — nuevas funcionalidades
 - hotfix/* — correcciones urgentes
+# Develop branch activa
